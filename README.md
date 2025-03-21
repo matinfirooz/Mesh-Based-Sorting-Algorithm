@@ -1,7 +1,9 @@
 # Mesh-Based Sorting Algorithm
 
 ## Course: **Parallel Processing**  
+
 **Academic Year:** 2024-2025 
+
 **Assignment Title:** Implementing a Sorting Algorithm on Mesh Architecture  
 
 ## Overview
