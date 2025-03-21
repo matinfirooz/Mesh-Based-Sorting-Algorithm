@@ -63,5 +63,3 @@ This assignment involves implementing a parallel sorting algorithm using a **mes
 - Bonus points for implementing on a **hardware platform (FPGA/ASIC)**.
 
 ---
-
-**Good luck!**
