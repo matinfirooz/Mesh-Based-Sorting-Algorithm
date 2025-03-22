@@ -1,8 +1,8 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Engineer: Matin Firoozbakht
-// Module Name: recursive_sort_2dmesh
-// Project Name: Homework 4 Parallel Processing
+// Module Name: recursive_sort
+// Project Name: Parallel Processing Course
 //////////////////////////////////////////////////////////////////////////////////
 module recursive_sort_2dmesh #(
     parameter N = 4,        // Mesh size (NxN)
