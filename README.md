@@ -44,6 +44,8 @@ This assignment involves implementing a parallel sorting algorithm using a **mes
 
 ## Evaluation Criteria
 
+<div align="center">
+
 | Task                              | Points |
 |-----------------------------------|--------|
 | Processor Design                  | 15     |
@@ -53,7 +55,10 @@ This assignment involves implementing a parallel sorting algorithm using a **mes
 | Report                             | 20     |
 | First Submission                   | 10     |
 | Second Submission                  | 10     |
-| **Total**                           | **100** |
+| **Total**                          | **100** |
+
+</div>
+
 
 ## Submission Requirements
 - Submit the following files:
