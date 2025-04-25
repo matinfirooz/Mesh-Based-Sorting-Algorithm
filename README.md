@@ -9,7 +9,10 @@
 ## Overview
 This assignment involves implementing a parallel sorting algorithm using a **mesh architecture**. The objective is to design a hardware model of a processor capable of sorting numbers within a **mesh structure**, then simulate and verify its functionality.
 
-![image](https://github.com/user-attachments/assets/d4166907-76e7-473e-82c0-ffbd20942dba)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d4166907-76e7-473e-82c0-ffbd20942dba" />
+</div>
+
 
 ## Tasks & Requirements
 
